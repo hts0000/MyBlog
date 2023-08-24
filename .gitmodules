@@ -1,0 +1,8 @@
+[submodule "myblog-server"]
+	path = myblog-server
+	url = https://github.com/hts0000/myblog-server.git
+	branch = main
+[submodule "myblog-web"]
+	path = myblog-web
+	url = https://github.com/hts0000/myblog-web.git
+	branch = main
