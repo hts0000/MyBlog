@@ -1,1 +1,21 @@
 # myblog
+
+- Golang
+- go-zero
+- TypeScripe
+- React
+- Python
+- Rust
+- Microservice
+- GRPC
+- Istio
+- PostgreSQL
+- Redis
+- RabbitMQ
+- ETCD
+- ELK
+- Docker
+- Kubernetes
+- Prometheus + Granfa
+- Jenkins
+- ChatGPT
