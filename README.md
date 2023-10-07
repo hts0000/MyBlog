@@ -4,6 +4,7 @@
 - go-zero
 - TypeScripe
 - React
+- TailwindCSS
 - Python
 - Rust
 - Microservice
