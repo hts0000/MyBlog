@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package hello.v1;
+
+option go_package = "hello/api/gen/v1;hellopb";
+
+message GetHelloReq {
+    int64 id = 1;
+}
+
+message GetHelloRsp {
+    string name = 1;
+}
+
+service Hello {
+    rpc SayHello (GetHelloReq) returns (GetHelloRsp);
+}

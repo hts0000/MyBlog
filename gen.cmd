@@ -1,0 +1,1 @@
+protoc.exe --go_out=./myblog-server/hello/grpc-demo/api/gen/v1 --go_opt=paths=source_relative --go-grpc_out=./myblog-server/hello/grpc-demo/api/gen/v1 --go-grpc_opt=paths=source_relative --proto_path=proto/hello hello.proto
